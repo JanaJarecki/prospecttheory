@@ -1,0 +1,10 @@
+Package: prospecttheory
+Title: Calculates choice for gamble from prospect theory
+Version: 0.0.0.9000
+Authors@R: person("Jana", "Jarecki", email = "jarecki.jana@gmail.com", role = c("aut", "cre"))
+Description: Tversky & Kahneman (1992) parametrization of value and weighting functions, and logarithmic choice rule
+Depends: R (>= 3.4.0)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
